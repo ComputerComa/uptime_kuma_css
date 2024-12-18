@@ -1,0 +1,38 @@
+
+.mt-3{
+max-width: 1920px;
+align-content: center;
+align-items: center;
+justify-content: center;
+justify-self: center;
+justify-items: center;
+}
+.mt-4 {
+column-count: 3;
+margin-top: 0.5rem;
+align-content: center;
+align-items: center;
+justify-content: center;
+justify-self: center;
+justify-items: center;
+ !important;
+}
+.mb-5{
+margin-bottom: 0rem !important;
+}
+.p-4{
+margin-bottom:0.2rem !important;
+}
+
+
+body {
+background-color: rgba(255,255,255,0);
+background-blend-mode: overlay;
+background-image: url("https://raw.githubusercontent.com/ComputerComa/desktop-backrounds/f5a5eb63e4adaab0c346de5bf4b638011a9ad131/photo_389.jpg");
+background-position: center;
+color: blue
+}
+
+.shadow-box {
+box-shadow: 10px 10px 10px  rgb(85,57,204,.75)
+}
